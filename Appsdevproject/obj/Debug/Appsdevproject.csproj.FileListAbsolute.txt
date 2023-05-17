@@ -1,0 +1,11 @@
+c:\users\oo133\documents\visual studio 2012\Projects\Appsdevproject\Appsdevproject\bin\Debug\Appsdevproject.exe.config
+c:\users\oo133\documents\visual studio 2012\Projects\Appsdevproject\Appsdevproject\bin\Debug\Appsdevproject.exe
+c:\users\oo133\documents\visual studio 2012\Projects\Appsdevproject\Appsdevproject\bin\Debug\Appsdevproject.pdb
+c:\users\oo133\documents\visual studio 2012\Projects\Appsdevproject\Appsdevproject\obj\Debug\Appsdevproject.csprojResolveAssemblyReference.cache
+c:\users\oo133\documents\visual studio 2012\Projects\Appsdevproject\Appsdevproject\obj\Debug\Appsdevproject.Form1.resources
+c:\users\oo133\documents\visual studio 2012\Projects\Appsdevproject\Appsdevproject\obj\Debug\Appsdevproject.Properties.Resources.resources
+c:\users\oo133\documents\visual studio 2012\Projects\Appsdevproject\Appsdevproject\obj\Debug\Appsdevproject.csproj.GenerateResource.Cache
+c:\users\oo133\documents\visual studio 2012\Projects\Appsdevproject\Appsdevproject\obj\Debug\Appsdevproject.exe
+c:\users\oo133\documents\visual studio 2012\Projects\Appsdevproject\Appsdevproject\obj\Debug\Appsdevproject.pdb
+c:\users\oo133\documents\visual studio 2012\Projects\Appsdevproject\Appsdevproject\obj\Debug\Appsdevproject.Loginpage.resources
+c:\users\oo133\documents\visual studio 2012\Projects\Appsdevproject\Appsdevproject\obj\Debug\Appsdevproject.Dashboard.resources
